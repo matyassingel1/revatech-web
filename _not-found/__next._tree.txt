@@ -1,3 +1,0 @@
-:HL["/revatech-web/_next/static/chunks/3q5pz_s1c2l09.css","style"]
-:HL["/revatech-web/img/logo-light.png","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"gkpL6Hzwxn_J8HmF4ARQS"}
